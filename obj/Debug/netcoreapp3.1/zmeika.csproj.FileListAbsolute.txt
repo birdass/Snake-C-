@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpv20\zmeika\obj\Debug\netcoreapp3.1\zmeika.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpv20\zmeika\obj\Debug\netcoreapp3.1\zmeika.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpv20\zmeika\obj\Debug\netcoreapp3.1\zmeika.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpv20\zmeika\obj\Debug\netcoreapp3.1\zmeika.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpv20\zmeika\bin\Debug\netcoreapp3.1\zmeika.exe
+C:\Users\opilane\source\repos\TITpv20\zmeika\bin\Debug\netcoreapp3.1\zmeika.deps.json
+C:\Users\opilane\source\repos\TITpv20\zmeika\bin\Debug\netcoreapp3.1\zmeika.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpv20\zmeika\bin\Debug\netcoreapp3.1\zmeika.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpv20\zmeika\bin\Debug\netcoreapp3.1\zmeika.dll
+C:\Users\opilane\source\repos\TITpv20\zmeika\bin\Debug\netcoreapp3.1\zmeika.pdb
+C:\Users\opilane\source\repos\TITpv20\zmeika\obj\Debug\netcoreapp3.1\zmeika.dll
+C:\Users\opilane\source\repos\TITpv20\zmeika\obj\Debug\netcoreapp3.1\zmeika.pdb
+C:\Users\opilane\source\repos\TITpv20\zmeika\obj\Debug\netcoreapp3.1\zmeika.genruntimeconfig.cache
