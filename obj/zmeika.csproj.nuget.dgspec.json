@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\TITpv20\\zmeika\\zmeika.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\TITpv20\\Zmeika\\zmeika.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\TITpv20\\zmeika\\zmeika.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\TITpv20\\Zmeika\\zmeika.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TITpv20\\zmeika\\zmeika.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TITpv20\\Zmeika\\zmeika.csproj",
         "projectName": "zmeika",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\TITpv20\\zmeika\\zmeika.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\TITpv20\\Zmeika\\zmeika.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\TITpv20\\zmeika\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\TITpv20\\Zmeika\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
